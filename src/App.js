@@ -1,6 +1,6 @@
 import './App.css';
 import Map from './components/Map';
-import MapGL from './components/MapGL';
+
 
 function App() {
   return (
